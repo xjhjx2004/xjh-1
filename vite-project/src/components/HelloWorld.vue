@@ -28,6 +28,8 @@ const count = ref(0)
     <a href="https://github.com/vuejs/language-tools" target="_blank">Volar</a>
     in your IDE for a better DX
   </p>
+  <div><!-- WikiBreeze ljt1.0 start--><img src="https://static.igem.wiki/teams/4591/wiki/wiki/home/plastic-2-new.svg" alt="WikiBreeze Image"><!-- WikiBreeze ljt1.0 end-->
+</div>
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
 </template>
 

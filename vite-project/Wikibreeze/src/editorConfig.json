@@ -1,0 +1,18 @@
+// This file is the template for editorConfig.json
+// It is not intended for manual editing
+// Edit WikibreezeData/config/editorConfig.json instead
+{
+    "image": {
+        "HTMLAttributes": {
+            "alt":"WikiBreeze Image"
+        },
+        "tag": "img"
+    },
+    "otherConfigurations":{
+        "headingLevels": [1,2,3,4],
+        "tablePro": "true",                 //table with note
+        "tableMustContainNote": "false",    //table must contain note
+        "imagePro": "true",                 //table with note
+        "imageMustContainNote": "false"     //table must contain note 
+    }
+}

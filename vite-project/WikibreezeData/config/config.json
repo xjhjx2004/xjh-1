@@ -1,0 +1,9 @@
+{
+    "fileType": [
+        ".html",
+        ".vue"
+    ],
+    "port": "auto",
+    "scanDirectory": "../",
+    "uploadImage": false
+}

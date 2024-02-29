@@ -1,0 +1,30 @@
+{
+    "content": [
+        {
+            "content": [
+                {
+                    "attrs": {
+                        "alt": null,
+                        "src": "https://static.igem.wiki/teams/4591/wiki/wiki/home/plastic-2-new.svg",
+                        "title": null
+                    },
+                    "type": "image"
+                },
+                {
+                    "attrs": {
+                        "textAlign": "left"
+                    },
+                    "content": [
+                        {
+                            "text": "Edit image n",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                }
+            ],
+            "type": "imagePro"
+        }
+    ],
+    "type": "doc"
+}

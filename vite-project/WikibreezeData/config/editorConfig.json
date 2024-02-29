@@ -1,0 +1,20 @@
+{
+    "image": {
+        "HTMLAttributes": {
+            "alt": "WikiBreeze Image"
+        },
+        "tag": "img"
+    },
+    "otherConfigurations": {
+        "headingLevels": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "imageMustContainNote": "false",
+        "imagePro": "true",
+        "tableMustContainNote": "false",
+        "tablePro": "true"
+    }
+}
