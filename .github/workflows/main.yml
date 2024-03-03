@@ -1,0 +1,32 @@
+# 发布项目到自己的服务器上的配置
+name: DeployServer
+# on 表示触发actions的条件
+on:
+    push:
+        branches: [main] #main分支在push的时候会触发
+    pull_request:
+        branches: [main] #main分支在PR的时候会触发
+ 
+jobs:
+    build:
+        runs-on: ubuntu-latest #nodejs执行的操作系统
+ 
+        steps:
+            - uses: actions/checkout@v3 #拉取你的最新代码
+            - name: Use Node.js
+              uses: actions/setup-node@v3
+              with:
+                  node-version: "20.9.0"  # 指定你的node版本
+            - run: npm install
+            - run: npm install -g pnpm
+            - run: pnpm i || (rm -rf node_modules/ && pnpm i)
+            - run: pnpm run build
+            - name: TranslateFile
+              # uses: wangyucode/sftp-upload-action@24f8bb83383dc39bed201ee5da01475e6c38c568
+              uses: wangyucode/sftp-upload-action@v2.0.2
+              with:
+                  host: ${{ secrets.ip }} #你的nginx服务器公网ip
+                  username: ${{ secrets.name }} #你的nginx服务器用户名
+                  password: ${{ secrets.key }}
+                  localDir: "dist" #你vue项目build好的文件的路径,每次服务器上会自动删除对应的文件夹后重新覆盖
+                  remoteDir: '/var/www/html/'

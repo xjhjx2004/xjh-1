@@ -1,0 +1,23 @@
+{
+    "otherConfigurations": {
+        "citation": "false",
+        "headingLevels": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "imageMustContainNote": "false",
+        "imagePro": "true",
+        "tableMustContainNote": "false",
+        "tablePro": "true"
+    },
+    "paragraph": {
+        "HTMLAttributes": {},
+        "tag": "p"
+    },
+    "table": {
+        "HTMLAttributes": {},
+        "tag": "table"
+    }
+}

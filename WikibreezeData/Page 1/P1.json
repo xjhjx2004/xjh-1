@@ -1,0 +1,18 @@
+{
+    "content": [
+        {
+            "attrs": {
+                "level": 1,
+                "textAlign": "center"
+            },
+            "content": [
+                {
+                    "text": "Description",
+                    "type": "text"
+                }
+            ],
+            "type": "heading"
+        }
+    ],
+    "type": "doc"
+}

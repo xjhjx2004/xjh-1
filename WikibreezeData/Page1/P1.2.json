@@ -1,0 +1,1736 @@
+{
+    "content": [
+        {
+            "attrs": {
+                "level": 2,
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "Inspiration",
+                    "type": "text"
+                }
+            ],
+            "type": "heading"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "In the early satge of the project, we came up with a lot of wild ideas. In an accidental opportunity, we participated in the field study practice class organized by the school. In the practical class, we found that there are many plastic fragments in the soil, some even buried deep in the soil. In view of this unfavorable phenomenon to the natural environment, we have carried on a discussion. In the discussion, we analyzed various plastic pollution phenomena that exist in our lives. These phenomena got us thinking: Where do they come from? And where do they end? So we began to look extensively at the literature to understand the current state of plastic degradation and find out where we could attack it. We look forward to doing our part to protect the earth's natural environment.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "level": 3,
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "The issue",
+                    "type": "text"
+                }
+            ],
+            "type": "heading"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "It does prove to be a problem! ",
+                    "type": "text"
+                },
+                {
+                    "text": "In 2018, The New York Times reported that microplastic particles in more than nine different materials, including polypropylene and polyethylene terephthalate, within the human body. Once more, in a 2019 study, the European Intestinal Society documented the discovery of nine distinct plastic particles in the feces of research participants from eight countries and regions around the world. These findings have instilled a sense of urgency regarding the plastic pollution predicament.If we can put forward ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "certain solutions ",
+                    "type": "text"
+                },
+                {
+                    "text": "to solve the problem of plastic pollution, then it will might be ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "of great significance",
+                    "type": "text"
+                },
+                {
+                    "text": ".",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "Therefore, we focused on ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "solving the problem of plastic pollution",
+                    "type": "text"
+                },
+                {
+                    "text": " and ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "conducted a lot of literature research",
+                    "type": "text"
+                },
+                {
+                    "text": ". We found that",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": " PET , as a mainstream plastic",
+                    "type": "text"
+                },
+                {
+                    "text": ", is often used in the production of plastic water bottles, plastic mulch, plastic shopping bags and numerous other plastic products.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "PET, scientifically known as polyethylene terephthalate, serves as a core material for production of the majority of the plastic products. Apart from the convenience this material brings to ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "us, PET accounts for 12% of the world's solid waste",
+                    "type": "text"
+                },
+                {
+                    "text": ". Theoretically, PET can be degraded into monomers through rapid enzymatic hydrolysis, subsequently enabling re-polymerization or upcycling into other valuable products, thereby ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "achieving a circular carbon economy of PET",
+                    "type": "text"
+                },
+                {
+                    "text": ".",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "level": 3,
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "Current solution",
+                    "type": "text"
+                }
+            ],
+            "type": "heading"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "In China, the treatment of plastic pollution ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "depends",
+                    "type": "text"
+                },
+                {
+                    "text": " ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "still on incineration or landfill",
+                    "type": "text"
+                },
+                {
+                    "text": ", while the current incineration capacity of plastic urban solid waste in China stands at approximately ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "800,000 tons/day",
+                    "type": "text"
+                },
+                {
+                    "text": ", ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "highlighting the severity of the plastic pollution issue.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "Between 1950 and 2015, ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "6.3 billion tons of primary and secondary (recycled) plastic waste ",
+                    "type": "text"
+                },
+                {
+                    "text": "was generated worldwide, of which about 9% was recycled,12% was incinerated, and the remaining 79% was either stored in landfills or released directly into the natural environment. This data underscores that ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "the main treatment methodof plastic waste in the world is also incineration or landfill",
+                    "type": "text"
+                },
+                {
+                    "text": ".",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "The landfill method not only ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "degrades plastics slowly andoccupies large area,but also may cause groundwater pollution",
+                    "type": "text"
+                },
+                {
+                    "text": ". Incineration, on the other hand, releases harmful gases and other substances into the atmosphere. Both methods would ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "cause irreparable damage to the environment",
+                    "type": "text"
+                },
+                {
+                    "text": ".",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "We visited the local enterprise, Hangzhou Environmental Group, to conduct field research. The real-world situation aligns closely with the findings of literature. Please visit the Human Practice page for more information.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "Our solution",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "We have conducted a series of research on PET plastics and designed ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        },
+                        {
+                            "type": "italic"
+                        }
+                    ],
+                    "text": "Bacillus",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "-based spontaneous",
+                    "type": "text"
+                },
+                {
+                    "text": " PET remediation solution for promoting the ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "sustainable environmental practices",
+                    "type": "text"
+                },
+                {
+                    "text": ".",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "level": 2,
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "Overview",
+                    "type": "text"
+                }
+            ],
+            "type": "heading"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "Our project aims to offer a ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "dependable solution for remediation of the environment",
+                    "type": "text"
+                },
+                {
+                    "text": " based on providing a new solution for PET degradation. To achieve this goal, we have designed a total of ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "five modules:",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        {
+                            "attrs": {
+                                "textAlign": "left"
+                            },
+                            "content": [
+                                {
+                                    "marks": [
+                                        {
+                                            "type": "bold"
+                                        }
+                                    ],
+                                    "text": "Degradation Module",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "paragraph"
+                        }
+                    ],
+                    "type": "listItem"
+                },
+                {
+                    "content": [
+                        {
+                            "attrs": {
+                                "textAlign": "left"
+                            },
+                            "content": [
+                                {
+                                    "marks": [
+                                        {
+                                            "type": "bold"
+                                        }
+                                    ],
+                                    "text": "Reporting Module",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "paragraph"
+                        }
+                    ],
+                    "type": "listItem"
+                },
+                {
+                    "content": [
+                        {
+                            "attrs": {
+                                "textAlign": "left"
+                            },
+                            "content": [
+                                {
+                                    "marks": [
+                                        {
+                                            "type": "bold"
+                                        }
+                                    ],
+                                    "text": "Adhesion Module",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "paragraph"
+                        }
+                    ],
+                    "type": "listItem"
+                },
+                {
+                    "content": [
+                        {
+                            "attrs": {
+                                "textAlign": "left"
+                            },
+                            "content": [
+                                {
+                                    "marks": [
+                                        {
+                                            "type": "bold"
+                                        }
+                                    ],
+                                    "text": "Suicide Switch",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "paragraph"
+                        }
+                    ],
+                    "type": "listItem"
+                },
+                {
+                    "content": [
+                        {
+                            "attrs": {
+                                "textAlign": "left"
+                            },
+                            "content": [
+                                {
+                                    "marks": [
+                                        {
+                                            "type": "bold"
+                                        }
+                                    ],
+                                    "text": "Flip Module",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "paragraph"
+                        }
+                    ],
+                    "type": "listItem"
+                }
+            ],
+            "type": "bulletList"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "We chose ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "italic"
+                        }
+                    ],
+                    "text": "Bacillus subtilis",
+                    "type": "text"
+                },
+                {
+                    "text": " as our chassis organism. This bacteria is commonly used in industry with excellent protein secretion capabilities and is included in the GRAS (Generally Recognized as Safe) list. In addition, its high resistance to harsh environments allows it to withstand extreme environmental conditions.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "alt": null,
+                "src": "https://static.igem.wiki/teams/4591/wiki/wikibreezeupload/description/des/c610813d6b6626a6e4b245bbebe2bee6153f2b28.svg",
+                "title": null
+            },
+            "type": "image"
+        },
+        {
+            "attrs": {
+                "textAlign": "center"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Fig. 1. ",
+                    "type": "text"
+                },
+                {
+                    "text": "Gene Roadmap Overview",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "level": 2,
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Module 1: PET Degradation Module",
+                    "type": "text"
+                }
+            ],
+            "type": "heading"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "This module is responsible for expressing the synthesis of downstream PET-degrading enzymes and finally degrades it to PCA which eventually enters the tricarboxylic acid cycle as a carbon source for microbe",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "superscript"
+                        }
+                    ],
+                    "text": "[1]",
+                    "type": "text"
+                },
+                {
+                    "text": ".",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "This year, we are exploring new opportunities for environmental remediation and cultivating innovative ideas. Our project focused on developing an auto-regulation system for subsequent use, and we are attempting to modify the existing PET degradation system as well as [",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "attrs": {
+                                "class": null,
+                                "href": "https://2022.igem.wiki/uppsala/index.html",
+                                "rel": "noopener noreferrer nofollow",
+                                "target": "_blank"
+                            },
+                            "type": "link"
+                        }
+                    ],
+                    "text": "https://2022.igem.wiki/uppsala",
+                    "type": "text"
+                },
+                {
+                    "text": "] to transform it into",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "italic"
+                        }
+                    ],
+                    "text": "B. subtilis",
+                    "type": "text"
+                },
+                {
+                    "text": ". PETase and MHETase were chosen for our project. Notably, we have incorporated the enzyme Depo-PETase, which exhibits superior degradation effects according to the literature",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "superscript"
+                        }
+                    ],
+                    "text": "[2]",
+                    "type": "text"
+                },
+                {
+                    "text": ". To have the enzyme secrete out of the cell, we fused a signal peptide SP",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "subscript"
+                        }
+                    ],
+                    "text": "amy",
+                    "type": "text"
+                },
+                {
+                    "text": " with the PETase",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "superscript"
+                        }
+                    ],
+                    "text": "[3]",
+                    "type": "text"
+                },
+                {
+                    "text": ". The expression of related genes in this module is controlled by the constitutive promoter P",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "subscript"
+                        }
+                    ],
+                    "text": "43",
+                    "type": "text"
+                },
+                {
+                    "text": " for continued expression.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "alt": null,
+                "src": "https://static.igem.wiki/teams/4591/wiki/wikibreezeupload/description/des/8f1ed2659877f5077a430faa4817be18560fdf50.svg",
+                "title": null
+            },
+            "type": "image"
+        },
+        {
+            "attrs": {
+                "textAlign": "center"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Fig. 2. ",
+                    "type": "text"
+                },
+                {
+                    "text": "Degradation Module",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "level": 2,
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Module 2: Reporting Module",
+                    "type": "text"
+                }
+            ],
+            "type": "heading"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "Ideally, we would like our engineered bacteria to be able to initiate PET degradation ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "in the presence of PET",
+                    "type": "text"
+                },
+                {
+                    "text": ". However, the ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "scarcity of biosensor systems",
+                    "type": "text"
+                },
+                {
+                    "text": " for PET and its degradation products make it very difficult to develop an automatic PET degradation system.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "In order to solve this problem, we reviewed the relevant literature and found a feasible TPA sensor",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "superscript"
+                        }
+                    ],
+                    "text": "[4]",
+                    "type": "text"
+                },
+                {
+                    "text": ". XylS is a mixotrophic transcription factor from Pseudomonas putida that can bind benzoate and various derivatives. A newly discovered mutant XylS can be used to construct a biosensor to detect the TPA and trigger the sfGFP expression as designed in the (",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Fig. 3",
+                    "type": "text"
+                },
+                {
+                    "text": "). ",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "alt": null,
+                "src": "https://static.igem.wiki/teams/4591/wiki/wikibreezeupload/description/des/1d0e2adea422ed05ec07b48fcd31b9a5183f5410.svg",
+                "title": null
+            },
+            "type": "image"
+        },
+        {
+            "attrs": {
+                "textAlign": "center"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Fig. 3.",
+                    "type": "text"
+                },
+                {
+                    "text": " Reporting Module can be triggered as the PET degradation products are detected",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "level": 2,
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Module 3: Adhesion Module",
+                    "type": "text"
+                }
+            ],
+            "type": "heading"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "Based on the Reporting Module, we designed the Adhesion Module(",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Fig. 4",
+                    "type": "text"
+                },
+                {
+                    "text": "), which expresses MstX and BslA to enhance the adhesion of engineered bacteria to PET in the presence of TPA.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "As the crystallinity of the plastic increases, it may be difficult for PETase to adsorb to the PET surface due to its water-soluble nature. BslA is a hydrophobic protein produced during ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "italic"
+                        }
+                    ],
+                    "text": "B.subtilis",
+                    "type": "text"
+                },
+                {
+                    "text": " biofilm formation. The protein can polymerize spontaneously to produce a hydrophobic polymer and build a hydrophobic layer on the biofilm surface",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "superscript"
+                        }
+                    ],
+                    "text": "[5]",
+                    "type": "text"
+                },
+                {
+                    "text": ".",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "In order to obtain better adherence ability, we further reviewed the literature and noticed that the protein MstX can promote biofilm formation in ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "italic"
+                        }
+                    ],
+                    "text": "B. subtilis ",
+                    "type": "text"
+                },
+                {
+                    "text": "by promoting the expression of two proteins,tasA and tapA, which are crucial in biofilm formation",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "superscript"
+                        }
+                    ],
+                    "text": "[6,7]",
+                    "type": "text"
+                },
+                {
+                    "text": ".",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "alt": null,
+                "src": "https://static.igem.wiki/teams/4591/wiki/wikibreezeupload/description/des/3f59f0d1736291c78acd40741da9c2690a3376c4.svg",
+                "title": null
+            },
+            "type": "image"
+        },
+        {
+            "attrs": {
+                "textAlign": "center"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Fig. 4. ",
+                    "type": "text"
+                },
+                {
+                    "text": "Adhesion Module",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "Through the combined actions of the two proteins, the adhesion score of engineered bacteria were significantly enhanced, the cell mobility was reduced, and the degradation efficiency of PET was significantly improved.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "level": 2,
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Module 4: ",
+                    "type": "text"
+                },
+                {
+                    "text": "Suicide Switch",
+                    "type": "text"
+                }
+            ],
+            "type": "heading"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "Upon releasing our engineered bacteria into the environment, the potential for unchecked overgrowth poses a potential challenge to the environment. To address this problem, we designed a suicide switch.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "Quorum sensing is an appropriate process for the function we aim to create: First, the quorum sensing promoter-regulated suicides are effective in controlling the reproduction of engineered bacteria to prevent their overgrowth. Second, regulating suicide through quorum sensing promoters can keep the engineered bacteria in a logarithmic growth period, maintaining optimal metabolism for more efficient catabolism of PETduring the system-workin-mode.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "In this module, quorum sensing promoter P",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "italic"
+                        },
+                        {
+                            "type": "subscript"
+                        }
+                    ],
+                    "text": "degQ",
+                    "type": "text"
+                },
+                {
+                    "text": " was utilized to control the Suicide Switch, which activated the downstream mazF expression and triggered cellular suicide at high scell concentrations[8]. ",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "To minimize potential hazards posed by the release of engineered bacteria and for biosafety precautions, our Suicide Switch can also be triggered manually by adding arabinose.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "alt": null,
+                "src": "https://static.igem.wiki/teams/4591/wiki/wikibreezeupload/description/des/c26c7d189b900909fdc85fefe7679df35258e3da.svg",
+                "title": null
+            },
+            "type": "image"
+        },
+        {
+            "attrs": {
+                "textAlign": "center"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Fig. 5. ",
+                    "type": "text"
+                },
+                {
+                    "text": "Suicide Switch",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "level": 2,
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Module 5: Flip Module",
+                    "type": "text"
+                }
+            ],
+            "type": "heading"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "The above system seems to be able to work perfectly in the environment, but we have to consider that the trigger conditions of the suicide switch are not suitable for the stage of cultivation and modification of engineered bacteria, since the concentrations of engineered bacteria need to be high at that stage. Therefore, it is imperative to investigate novel methods for regulating the suicide switch.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "The method of homologous recombination also brought us into contacting with the topic of ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "recombinases",
+                    "type": "text"
+                },
+                {
+                    "text": ".",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Cre-Loxp recombination",
+                    "type": "text"
+                },
+                {
+                    "text": " is a ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "site-specific recombinase technology",
+                    "type": "text"
+                },
+                {
+                    "text": ", which was used to carry out ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "deletions",
+                    "type": "text"
+                },
+                {
+                    "text": ", ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "insertions",
+                    "type": "text"
+                },
+                {
+                    "text": ", ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "translocations",
+                    "type": "text"
+                },
+                {
+                    "text": " and ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "inversions",
+                    "type": "text"
+                },
+                {
+                    "text": " at specific sites in the DNA of cells. The effectiveness of this technology hinges on the presence of flanking sequences, known as ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Recombinase Target Sites",
+                    "type": "text"
+                },
+                {
+                    "text": " (RTSs), that ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "mark recombination sites",
+                    "type": "text"
+                },
+                {
+                    "text": ".If the RTSs are arranged in ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "head-to-head",
+                    "type": "text"
+                },
+                {
+                    "text": " orientation, the sequence within the RTSs is ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "flipped",
+                    "type": "text"
+                },
+                {
+                    "text": " (called ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "inversion",
+                    "type": "text"
+                },
+                {
+                    "text": ").",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "With this Flip Module, we can precisely control the on and off of the Suicide Switch by ingenious genetic circuit design and inducing the expression of ",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "cre recombinase",
+                    "type": "text"
+                },
+                {
+                    "text": ".",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "alt": null,
+                "src": "https://static.igem.wiki/teams/4591/wiki/wikibreezeupload/description/des/edccb6d198d568da8aecad8e90d6ade43332b758.svg",
+                "title": null
+            },
+            "type": "image"
+        },
+        {
+            "attrs": {
+                "textAlign": "center"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Fig. 6.",
+                    "type": "text"
+                },
+                {
+                    "text": " Preliminary flip system",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "In this system, the P",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "underline"
+                        }
+                    ],
+                    "text": "degQ",
+                    "type": "text"
+                },
+                {
+                    "text": " promoter is inversely placed upstream of MazF, cre recombinase expression and flip can be activated by manually added xylose to further activate the suicide switch.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "In addition, we found that the expression of the cre recombinaseexpression and the activation of the suicide switch after the release of the engineering bacteria, so we can place cre recombinase and P",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "underline"
+                        }
+                    ],
+                    "text": "xyl",
+                    "type": "text"
+                },
+                {
+                    "text": " promoter downstream the P",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "underline"
+                        }
+                    ],
+                    "text": "m",
+                    "type": "text"
+                },
+                {
+                    "text": " promoter to simplify our gene circuit.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "alt": null,
+                "src": "https://static.igem.wiki/teams/4591/wiki/wikibreezeupload/description/des/d4a6b201cc7143ab289a134bebda2dd45c815ecf.svg",
+                "title": null
+            },
+            "type": "image"
+        },
+        {
+            "attrs": {
+                "textAlign": "center"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Fig. 7.",
+                    "type": "text"
+                },
+                {
+                    "text": " Improved flip system",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "At this point, when we look at our genetic circuit as a whole, all modules have achieved theoretical feasibility. However, characterization of this complex system is often very complicated, so we have designed the following easily characterizable circuit by combining green fluorescent protein , the tetR-tetO system and adhesion system",
+                    "type": "text"
+                },
+                {
+                    "marks": [
+                        {
+                            "type": "superscript"
+                        }
+                    ],
+                    "text": "[9]",
+                    "type": "text"
+                },
+                {
+                    "text": ".",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "alt": null,
+                "src": "https://static.igem.wiki/teams/4591/wiki/wikibreezeupload/description/des/c610813d6b6626a6e4b245bbebe2bee6153f2b28.svg",
+                "title": null
+            },
+            "type": "image"
+        },
+        {
+            "attrs": {
+                "textAlign": "center"
+            },
+            "content": [
+                {
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Fig. 8.",
+                    "type": "text"
+                },
+                {
+                    "text": " Final flip system",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "We combined the cre-loxp system with tetR-tetO as a way to monitor the three stages of strain culture:",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "content": [
+                {
+                    "content": [
+                        {
+                            "attrs": {
+                                "textAlign": "left"
+                            },
+                            "content": [
+                                {
+                                    "text": "Pre-culture stage - lox sites are not turned over and GFP fluorescent protein is not expressed.",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "paragraph"
+                        }
+                    ],
+                    "type": "listItem"
+                },
+                {
+                    "content": [
+                        {
+                            "attrs": {
+                                "textAlign": "left"
+                            },
+                            "content": [
+                                {
+                                    "text": "Before release to the environment, xylose is added to express cre later - lox sites are flipped and GFP fluorescent protein is expressed, and the RFP was stop expressing.",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "paragraph"
+                        }
+                    ],
+                    "type": "listItem"
+                },
+                {
+                    "content": [
+                        {
+                            "attrs": {
+                                "textAlign": "left"
+                            },
+                            "content": [
+                                {
+                                    "text": "Beginning to degrade PET and the TPA sensor is functioning properly - tetO site is inhibited by tetR and GFP fluorescent protein is inhibited again.",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "paragraph"
+                        }
+                    ],
+                    "type": "listItem"
+                }
+            ],
+            "type": "bulletList"
+        },
+        {
+            "attrs": {
+                "level": 2,
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "Outlook",
+                    "type": "text"
+                }
+            ],
+            "type": "heading"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "We hope to design this gene pathway as a generalized route for the cre-loxp system. In our design, the genes expressed before and after the flip can be diverse.And the two proteins, RFP and sfGFP, are used as substitutes in the route.These two proteins can be exchanged for two kinds of functioning enzymes in the further application.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "For example:if one plastic degradation engineered bacteria is subsequently used to degrade the mulch film？, before the mulch film needs to be kept warm, we can put the engineering bacteria, so that they can express the enzyme of nitrogen fixation and other enzymes to improve the soil fertility before the need of mulch film degradation.When the temperature rises and the mulch is not needed, we can use xylose to flip the lox site and let it express the enzyme for degrading the mulch.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "On this basis, we can expand the potential of engineered bacteria, make full use of strong viability of bacteria. When a certain function of engineered bacteria does not need to be activated, it can perform another function suitable for specific application situations. This conversion is reversible, enabling the expression of different enzymes before and after the recombination at different situations, enhancing the controllability of engineered bacteria.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "We optimized the expression of cre recombinase on this basis. And we wanted to introduce two inducible promoters with different strength to express cre recombinase, so that the flip-flop of the lox site can be dynamically regulated. For example, when an economic enzyme-producing engineered bacteria is used in an industrial situation, most of the time it is allowed to express the economic enzyme normally. When the fermenter is contaminated，it can be induced to express cre recombinase at the right time if it is needed, and the lox site can be flipped ，allowing the promoter to express the enzyme that reduces the contamination. In this way, the quality of the fermenter is guaranteed, and the cost of quality control can be lowered.",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        },
+        {
+            "attrs": {
+                "textAlign": "start"
+            },
+            "content": [
+                {
+                    "text": "When the contamination is effectively contained, the induction will be stopped, and the engineered bacteria are allowed to continue producing the economic enzyme. Furthermore, because a small quantity of Cre enzyme is sufficient to flip all the lox sites, we attmept to add an ssrA tag to the cre recombinase to accelerate the degradation and make the switching of functions faster .",
+                    "type": "text"
+                }
+            ],
+            "type": "paragraph"
+        }
+    ],
+    "type": "doc"
+}

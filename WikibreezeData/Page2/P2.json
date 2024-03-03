@@ -1,0 +1,48 @@
+{
+    "content": [
+        {
+            "attrs": {
+                "level": 1,
+                "textAlign": "left"
+            },
+            "content": [
+                {
+                    "text": "example TEXT",
+                    "type": "text"
+                }
+            ],
+            "type": "heading"
+        },
+        {
+            "content": [
+                {
+                    "attrs": {
+                        "alt": null,
+                        "src": "https://static.igem.wiki/teams/4591/wiki/wikibreezeupload/human-practices/hp2/ed9e3d320119a602c853416e8f5717beabe8388a.jpg",
+                        "title": null
+                    },
+                    "type": "image"
+                },
+                {
+                    "attrs": {
+                        "textAlign": "left"
+                    },
+                    "content": [
+                        {
+                            "marks": [
+                                {
+                                    "type": "bold"
+                                }
+                            ],
+                            "text": "Fig.1",
+                            "type": "text"
+                        }
+                    ],
+                    "type": "paragraph"
+                }
+            ],
+            "type": "imagePro"
+        }
+    ],
+    "type": "doc"
+}
